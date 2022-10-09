@@ -1,5 +1,4 @@
-### Computer-database-gatling-project
-............................................
+# Computer-database-gatling-project
 Test the performance of the [computers database page](https://computer-database.gatling.io/computers)
 ## Scenarios performed with the following test
 - Test loading the homepage get: /computers
@@ -7,9 +6,10 @@ Test the performance of the [computers database page](https://computer-database.
 - Test adding new computers post: /computers
 - Test filtering the added computer get: /computers?f=machineType
 
-Gatling script definition includes the following information
+## Gatling script definition includes the following information 
 - Protocol setup
 - Scenario definition
 - Load simulation design
+Access the script here
 
 Test Report can be found
