@@ -10,6 +10,6 @@ Test the performance of the [computers database page](https://computer-database.
 - Protocol setup
 - Scenario definition
 - Load simulation design
-Access the script here
+- Access the [script here](https://github.com/lindamukami/computer-database-gatling-project/blob/main/src/test/scala/com/gatling/tests/ComputerDatabase.scala)
 
-Test Report can be found
+- Test Report can be [found here] (https://github.com/lindamukami/computer-database-gatling-project/blob/main/target/gatling/computerdatabase-20221009094709346/index.html)
